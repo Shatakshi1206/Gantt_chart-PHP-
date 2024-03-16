@@ -29,9 +29,19 @@ $ php -S localhost:8000
 <h3 > Usage </h3>
 <ol>
   <li>Fill out the task details in the provided PHP form.</li>
+  
+  ![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/2fa758b6-3a4d-45a4-ba26-6d315c7a31f6)
+  
   <li>Optionally, add dependencies on other tasks if needed.</li>
   <li>Click the "Add Task" button to create the Gantt chart.</li>
+  
+  ![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/7cfd6599-80ec-4688-9f21-6e630a6c96c0)
+  
   <li>The Gantt chart will be dynamically rendered based on your input, displaying each task as a horizontal bar from its start to end date.</li>
+
+  ![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/378452d3-6174-445a-ab8a-51f820bf197c)
+
+  <li>You can also save the gantt chart as a SVG on your local system </li>
 </ol>
 
 <h3> Contributing </h3>
@@ -48,11 +58,11 @@ We welcome contributions from the community to improve this project. Here's how 
 
 <H2> DEMO SAMPLE </H2>
 
-![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/2fa758b6-3a4d-45a4-ba26-6d315c7a31f6)
 
-![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/7cfd6599-80ec-4688-9f21-6e630a6c96c0)
 
-![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/378452d3-6174-445a-ab8a-51f820bf197c)
+
+
+
 
 
 
