@@ -1,42 +1,49 @@
 <H1> GANTT CHART MAKER </H1>
 
-Description
+![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/fa0f8a21-50a2-4c88-8b95-277670470dca)
 
+<h2>Description</h2>
+<p>This project aims to create a Gantt chart dynamically based on user input. It includes features such as data input through a PHP form, Gantt chart generation, and dynamic rendering for an interactive user experience.</p>
 
-Table of Contents
-Installation
-Usage
-Contributing
+<h2>Table of Contents</h2>
+<ul>
+  <li>Installation</li>
+  <li>Usage</li>
+  <li>Contributing</li>
+</ul>
 
-Installation
-
+<h2>Installation</h2>
+Follow these steps to set up the project on your local machine:
+<ol>
+<li>Clone the repository:</li>
+$ git clone https://github.com/username/gantt-chart-generator.git
+$ cd gantt-chart-generator
+<li>Install dependencies:</li>
+$ composer install
+<li>Start the PHP server:</li>
+$ php -S localhost:8000
+<li>Access the application in your web browser at http://localhost:8000.</li>  
+</ol>
 
 <h3 > Usage </h3>
-<ul>
+<ol>
   <li>Fill out the task details in the provided PHP form.</li>
   <li>Optionally, add dependencies on other tasks if needed.</li>
   <li>Click the "Add Task" button to create the Gantt chart.</li>
   <li>The Gantt chart will be dynamically rendered based on your input, displaying each task as a horizontal bar from its start to end date.</li>
-</ul>
-
-
+</ol>
 
 <h3> Contributing </h3>
 We welcome contributions from the community to improve this project. Here's how you can contribute:
-
-Fork the repository.
-Create a new branch ('git checkout -b feature-branch').
-Make your changes and ensure they follow the coding standards.
-Test your changes thoroughly.
-Commit your changes ('git commit -am 'Add new feature'').
-Push to the branch ('git push origin feature-branch').
-Create a new Pull Request.
-
-
-
-
-
-
+<ol>
+<li>Fork the repository.</li>
+<li>Create a new branch ('git checkout -b feature-branch').</li>
+<li>Make your changes and ensure they follow the coding standards.</li>
+<li>Test your changes thoroughly.</li>
+<li>Commit your changes ('git commit -am 'Add new feature'').</li>
+<li>Push to the branch ('git push origin feature-branch').</li>
+<li>Create a new Pull Request.</li>
+</ol>
 
 <H2> DEMO SAMPLE </H2>
 
@@ -46,7 +53,6 @@ Create a new Pull Request.
 
 ![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/378452d3-6174-445a-ab8a-51f820bf197c)
 
-![image](https://github.com/Shatakshi1206/Gantt_chart-PHP-/assets/153349188/fa0f8a21-50a2-4c88-8b95-277670470dca)
 
 
 
