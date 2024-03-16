@@ -16,7 +16,8 @@
 Follow these steps to set up the project on your local machine:
 <ol>
 <li>Clone the repository:</li>
-$ git clone https://github.com/username/gantt-chart-generator.git
+$ git clone https://github.com/Gantt_chart-PHP/gantt-chart-generator.git
+  <br>
 $ cd gantt-chart-generator
 <li>Install dependencies:</li>
 $ composer install
